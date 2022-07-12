@@ -1,4 +1,4 @@
-# 💻 Fundamentals of Programming - in python
+# 💻 Fundamentals of Programming - in Python
 
 ## Assignments
 - [Assigment 1](https://github.com/raul-dunca/fundamentals-of-programming-assignment1) - basic problems meant to get us used to the Python programming language.
